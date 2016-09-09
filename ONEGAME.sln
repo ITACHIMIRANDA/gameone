@@ -1,0 +1,38 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2015
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ONEGAME.CSharp.Plugins", "ONEGAME.CSharp.Plugins.csproj", "{91B3B9EB-5D93-7354-E9B2-85241DC31071}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ONEGAME.CSharp", "ONEGAME.CSharp.csproj", "{1A29B5BD-986D-D1F4-A84D-3C3E14DDA73C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ONEGAME.CSharp.Editor.Plugins", "ONEGAME.CSharp.Editor.Plugins.csproj", "{476900A0-3F45-656F-5B3C-32EA14AD5DD9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ONEGAME.CSharp.Editor", "ONEGAME.CSharp.Editor.csproj", "{530239DB-EC30-80DB-414B-FB02D713D090}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{91B3B9EB-5D93-7354-E9B2-85241DC31071}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{91B3B9EB-5D93-7354-E9B2-85241DC31071}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{91B3B9EB-5D93-7354-E9B2-85241DC31071}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{91B3B9EB-5D93-7354-E9B2-85241DC31071}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1A29B5BD-986D-D1F4-A84D-3C3E14DDA73C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1A29B5BD-986D-D1F4-A84D-3C3E14DDA73C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1A29B5BD-986D-D1F4-A84D-3C3E14DDA73C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1A29B5BD-986D-D1F4-A84D-3C3E14DDA73C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{476900A0-3F45-656F-5B3C-32EA14AD5DD9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{476900A0-3F45-656F-5B3C-32EA14AD5DD9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{476900A0-3F45-656F-5B3C-32EA14AD5DD9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{476900A0-3F45-656F-5B3C-32EA14AD5DD9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{530239DB-EC30-80DB-414B-FB02D713D090}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{530239DB-EC30-80DB-414B-FB02D713D090}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{530239DB-EC30-80DB-414B-FB02D713D090}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{530239DB-EC30-80DB-414B-FB02D713D090}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
